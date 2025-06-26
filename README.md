@@ -12,7 +12,7 @@ This project demonstrates how to formulate and solve optimization problems using
 - Solved using **PuLP**
 - Supports constraints: `≤`, `≥`, `=`
 - Maximization & Minimization problems
-- [See the code](lpp.ipynb)
+- [See the code](notebooks/lpp.ipynb)
 
 ### 2. Graphical Method for LPP (2D only)
 - Plotted feasible region and optimal solution
@@ -23,12 +23,12 @@ This project demonstrates how to formulate and solve optimization problems using
 ### 3. Transportation Problem
 - Formulated as LPP and solved using PuLP
 - Handles supply and demand balance/unbalance cases
-- [See the code](transportation.ipynb)
+- [See the code](notebooks/transportation.ipynb)
 ### 4. Assignment Problem
 - Solved using:
   - **Hungarian Method** (via `scipy.optimize.linear_sum_assignment`)
   - **LPP formulation** (via PuLP)
-- [See the code](assignment.ipynb)
+- [See the code](notebooks/assignment.ipynb)
 ---
 
 ## How to Run?
