@@ -29,6 +29,11 @@ This project demonstrates how to formulate and solve optimization problems using
   - **Hungarian Method** (via `scipy.optimize.linear_sum_assignment`)
   - **LPP formulation** (via PuLP)
 - [See the code](notebooks/assignment.ipynb)
+
+### 5. Transshipment Problem
+- Formulated as LPP and solved using PuLP
+- Handles supply and demand balance/unbalance cases
+- [See the code](notebooks/transhipment.ipynb)
 ---
 
 ## How to Run?
