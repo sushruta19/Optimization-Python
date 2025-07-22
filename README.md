@@ -34,6 +34,10 @@ This project demonstrates how to formulate and solve optimization problems using
 - Formulated as LPP and solved using PuLP
 - Handles supply and demand balance/unbalance cases
 - [See the code](notebooks/transhipment.ipynb)
+
+### 5. MILP(Mixed Integer LP) Problem
+- Solved using PuLP
+- [See the code](notebooks/milp.ipynb)
 ---
 
 ## How to Run?
